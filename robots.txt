@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-kfaj3x.pulaucuansite.com/sitemap.xml
